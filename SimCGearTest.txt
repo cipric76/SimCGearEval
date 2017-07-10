@@ -1,0 +1,32 @@
+# Profiles to simulate
+name=test
+
+# Do not run simulator just print out number of combinations
+nosim=false
+testmode=true
+
+# Simc path
+simc=c:\\Simulationcraft(x64)\\725-01\\simc.exe
+
+# Working dir
+wkdir=g:\\Personal_stuff\\cipri\\simc
+
+# Legendaries
+legendary=137019
+legendary=144239
+legendary=137057
+legendary=133976
+legendary=137068
+legendary=137220
+legendary=132452
+legendary=144259
+legendary=137029
+legendary=137097
+legendary=144279
+legendary=137038
+legendary=137061
+legendary=132444
+legendary=137014
+legendary=137090
+legendary=137022
+legendary=151643
